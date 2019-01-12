@@ -1,16 +1,18 @@
 # Important Links
 ## For STYLING
 > good resources for css and layout design:
-- [dribble](https://dribbble.com).
-- [awwwards](https://www.awwwards.com).
-- [behance](https://www.behance.net).
-- [ionicons](https://ionicons.com).
-- [fontawesome](https://fontawesome.com).
-- [type-scale](https://type-scale.com).
-- [unsplash](https://unsplash.com).
+- <a href="https://dribbble.com" target=_blank>dribble</a>.
+- <a href="https://www.awwwards.com" target=_blank>awwwards</a>.
+- <a href="https://www.behance.net" target=_blank>behance</a>.
+- <a href="https://ionicons.com" target=_blank>ionicons</a>.
+- <a href="https://fontawesome.com">fontawesome</a>.
+- <a href="https://type-scale.com" target=_blank>type-scale</a>.
+- <a href="https://unsplash.com" target=_blank>unsplash</a>.
 
-## Git flow by Ali [here](https://gist.github.com/ali-7/ba88624ae3101bc1a6d18d46d987a841#file-gitflow-md).
+
+## Git flow by Ali <a href="https://gist.github.com/ali-7/ba88624ae3101bc1a6d18d46d987a841#file-gitflow-md" target=_blank>_here_</a>.
 
 ## Web Development youtube tutorials
-- [Build amazing things with _Steve Griffith_](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ).
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb).
+- <a href="https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ" target=_blank>Build amazing things with _Steve Griffith_</a>.
+- <a href= "https://www.youtube.com/user/TechGuyWeb">Traversy Media</a>.
+
