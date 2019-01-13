@@ -9,10 +9,10 @@
 - <a href="https://type-scale.com" target=_blank>type-scale</a>.
 - <a href="https://unsplash.com" target=_blank>unsplash</a>.
 
+>## Flex Box by [Kanna'n](https://github.com/knanahassouna1) from [_here_](http://flexboxfroggy.com/)
 
-## Git flow by Ali <a href="https://gist.github.com/ali-7/ba88624ae3101bc1a6d18d46d987a841#file-gitflow-md" target=_blank>_here_</a>.
+>## Git flow by [Ali](https://github.com/ali-7) from <a href="https://gist.github.com/ali-7/ba88624ae3101bc1a6d18d46d987a841#file-gitflow-md" target=_blank>_here_</a>.
 
 ## Web Development youtube tutorials
 - <a href="https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ" target=_blank>Build amazing things with _Steve Griffith_</a>.
 - <a href= "https://www.youtube.com/user/TechGuyWeb">Traversy Media</a>.
-
